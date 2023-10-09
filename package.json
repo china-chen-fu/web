@@ -8,10 +8,6 @@
     "dev": "vite",
     "build:prod": "vite build --mode production",
     "build:test": "vite build --mode test",
-    "build:cloud": "vite build --mode cloud",
-    "build:yxprod": "vite build --mode yixing",
-    "build:tjprod": "vite build --mode tj",
-    "build:xysprod": "vite build --mode xys",
     "preview": "vite preview",
     "lint": "eslint --fix --ext .js,.vue src"
   },
@@ -22,6 +18,7 @@
   "dependencies": {
     "@amap/amap-jsapi-loader": "^1.0.1",
     "@element-plus/icons-vue": "2.0.10",
+    "@svgdotjs/svg.js": "^3.2.0",
     "@vueuse/core": "9.5.0",
     "axios": "0.27.2",
     "big.js": "^6.2.1",
