@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>导航/宿舍信息</title>
+    <g id="页面-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="一级菜单" transform="translate(-529.000000, -19.000000)">
+            <g id="编组-81">
+                <g id="编组-80" transform="translate(321.000000, 0.000000)">
+                    <g id="编组-78" transform="translate(184.000000, 0.000000)">
+                        <g id="编组-65" transform="translate(24.000000, 14.000000)">
+                            <g id="导航/宿舍信息" transform="translate(0.000000, 5.000000)">
+                                <g id="宿舍信息">
+                                    <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="34" height="34"></rect>
+                                    <polygon id="路径" fill="#4AA5A6" points="5.9765625 3.90966797 22.5117188 3.90966797 22.5117188 25.956543 5.9765625 25.956543"></polygon>
+                                    <polygon id="路径" fill="#4AA5A6" opacity="0.200000003" points="22.5117188 8.04345703 28.0234375 8.04345703 28.0234375 25.956543 22.5117188 25.956543"></polygon>
+                                    <polygon id="路径" fill="#4AA5A6" opacity="0.200000003" points="3.22070312 25.956543 30.7792969 25.956543 30.7792969 30.090332 3.22070312 30.090332"></polygon>
+                                    <path d="M12.8662109,8.04345703 L12.8662109,21.8227539 L10.1103516,21.8227539 L10.1103516,8.04345703 L12.8662109,8.04345703 Z M18.3779297,8.04345703 L18.3779297,16.3110352 L15.6220703,16.3110352 L15.6220703,8.04345703 L18.3779297,8.04345703 Z" id="形状结合" fill="#FFFFFF" fill-rule="nonzero"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

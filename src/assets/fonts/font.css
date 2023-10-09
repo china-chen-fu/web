@@ -1,0 +1,65 @@
+@font-face {
+  font-family: "DINPro-Bold";
+  src: url('@/assets/fonts/DINPro-Bold.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "DINPro-Medium";
+  src: url('@/assets/fonts/DINPro-Medium.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Digital";
+  src: url("@/assets/fonts/DigitalNumbers.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "DINAlternateBold";
+  src: url("@/assets/fonts/DINAlternateBold.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url("@/assets/fonts/Roboto-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "LED";
+  src: url("@/assets/fonts/LED.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+/**
+  *作者：陈章
+  *时间：2023/09/18 15:23:16
+  *功能：大屏
+  */
+
+@font-face {
+  font-family: "DFPHeiW12";
+  src: url("@/assets/fonts/DFPHeiW12.TTF");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "YouSheBiaoTiHei";
+  src: url("@/assets/fonts/YouSheBiaoTiHei.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Rajdhani-Medium";
+  src: url("@/assets/fonts/Rajdhani-Medium.ttf");
+  font-weight: normal;
+  font-style: normal;
+}

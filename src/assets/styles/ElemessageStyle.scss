@@ -1,0 +1,38 @@
+//El-Message样式重构
+:root{
+  //--el-menu-active-color:#2f54eb!important;
+}
+.el-message{
+  min-width: 320px;
+  padding:10px 16px;
+  font-size: 16px;
+  font-weight: bolder;
+  border-color: transparent;
+  .el-message__content{
+    color:#000000 !important;
+  }
+}
+.el-message--info{
+  background: #E5F1FF;
+  .el-message-icon--info{
+    color:rgba(0, 122, 255, 1);
+  }
+}
+.el-message--success{
+  background: #E9F9F1;
+  .el-message-icon--info{
+    color:rgba(41, 196, 118, 1);
+  }
+}
+.el-message--error{
+  background: #FEEEEA;
+  .el-message-icon--info{
+    color:rgba(246, 86, 47, 1);
+  }
+}
+.el-message--warning{
+  background: #FEF6EA;
+  .el-message-icon--info{
+    color:rgba(245, 173, 45, 1);
+  }
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>导航/后台管理</title>
+    <g id="页面-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="一级菜单" transform="translate(-895.000000, -19.000000)" fill-rule="nonzero">
+            <g id="编组-81">
+                <g id="编组-80" transform="translate(321.000000, 0.000000)">
+                    <g id="编组-76" transform="translate(552.000000, 0.000000)">
+                        <g id="一级菜单/后台管理" transform="translate(22.000000, 14.000000)">
+                            <g id="导航/后台管理" transform="translate(0.000000, 5.000000)">
+                                <g id="拓展市场">
+                                    <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="34" height="34"></rect>
+                                    <polygon id="路径" fill="#4AA5A6" points="7.2734375 7.2734375 26.7265625 7.2734375 26.7265625 26.7265625 7.2734375 26.7265625"></polygon>
+                                    <path d="M19.59375,4.03125 L29.96875,4.03125 L29.96875,14.40625 L19.59375,14.40625 L19.59375,4.03125 Z M4.03125,19.59375 L14.40625,19.59375 L14.40625,29.96875 L4.03125,29.96875 L4.03125,19.59375 Z" id="形状" fill="#DBEDED"></path>
+                                    <path d="M7.2734375,19.59375 L14.40625,19.59375 L14.40625,26.7265625 L7.2734375,26.7265625 L7.2734375,19.59375 Z M19.59375,7.2734375 L26.7265625,7.2734375 L26.7265625,14.40625 L19.59375,14.40625 L19.59375,7.2734375 Z" id="形状" fill="#FFFFFF"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
