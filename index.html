@@ -1,13 +1,5 @@
 <!DOCTYPE html>
 <html>
-<script type="module">
-    const logoUrl = import.meta.env.VITE_APP_LOGO_PATH;
-    let icon = new URL(`./src/assets/logo/${logoUrl}/favicon.ico`, import.meta.url).href;
-    let favicon = document.createElement('link');
-    favicon.setAttribute('rel', 'icon');
-    favicon.setAttribute('href', icon);
-    document.head.appendChild(favicon);
-</script>
 <head>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />

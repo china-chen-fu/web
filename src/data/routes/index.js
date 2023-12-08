@@ -68,7 +68,49 @@ export const pageRoutes={
                                 "link": null
                             },
                             "platformId": 1
-                        }
+                        },
+                        {
+                            "name": "GaussianDistribution",
+                            "path": "gaussianDistribution",
+                            "hidden": false,
+                            "component": "project/yunboo/gaussianDistribution/index",
+                            "meta": {
+                                "title": "正态分布",
+                                "englishName": null,
+                                "icon": "",
+                                "noCache": false,
+                                "link": null
+                            },
+                            "platformId": 1
+                        },
+                        {
+                            "name": "MassData",
+                            "path": "massData",
+                            "hidden": false,
+                            "component": "project/yunboo/massData/index",
+                            "meta": {
+                                "title": "表格大量数据",
+                                "englishName": null,
+                                "icon": "",
+                                "noCache": false,
+                                "link": null
+                            },
+                            "platformId": 1
+                        },
+                        {
+                            "name": "Cascader",
+                            "path": "cascader",
+                            "hidden": false,
+                            "component": "project/yunboo/cascader/index",
+                            "meta": {
+                                "title": "级联选择器",
+                                "englishName": null,
+                                "icon": "",
+                                "noCache": false,
+                                "link": null
+                            },
+                            "platformId": 1
+                        },
                     ],
                     "platformId": 1
                 },
