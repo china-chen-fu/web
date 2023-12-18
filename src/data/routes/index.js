@@ -124,6 +124,20 @@ export const pageRoutes = {
                 link: null
               },
               platformId: 1
+            },
+            {
+              name: 'SlidingVerificationCode',
+              path: 'slidingVerificationCode',
+              hidden: false,
+              component: 'project/yunboo/slidingVerificationCode/index',
+              meta: {
+                title: '滑动校验',
+                englishName: null,
+                icon: '',
+                noCache: false,
+                link: null
+              },
+              platformId: 1
             }
           ],
           platformId: 1
