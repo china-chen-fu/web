@@ -1,0 +1,55 @@
+@font-face {
+  font-family: "Blackbody Normal";
+  src: url('./SourceHanSansCN-Normal.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Blackbody Bold";
+  src: url('./SourceHanSansCN-Bold.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Blackbody Regular";
+  src: url('./SourceHanSansCN-Regular.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Blackbody Medium";
+  src: url('./SourceHanSansCN-Medium.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Blackbody Light";
+  src: url('./SourceHanSansCN-Light.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Blackbody Heavy";
+  src: url('./SourceHanSansCN-Heavy.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Blackbody ExtraLight";
+  src: url('./SourceHanSansCN-ExtraLight.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Digital";
+  src: url('./DigitalNumbers.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
